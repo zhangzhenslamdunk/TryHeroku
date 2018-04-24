@@ -40,6 +40,7 @@ def makeWebhookResult(req):
     
     speech = s
     
+    
     print("Response:")
     print(speech)
     return {
