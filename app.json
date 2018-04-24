@@ -1,7 +1,7 @@
 {
-  "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
-  "repository": "https://github.com/ashokpsg/apiai-weather-webhook-sample",
+  "name": "Heroku Demo Chatbot",
+  "description": "Heroku Demo Chatbot",
+  "repository": "https://github.com/zhangzhenslamdunk/TryHeroku",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "natural language"]
 }
