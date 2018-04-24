@@ -35,10 +35,10 @@ def makeWebhookResult(req):
 #    s = s.decode('utf-8')
 #    
 #    # read text file from local folder
-#    infile = open('sentence.txt')
-#    s = infile.read()
-#    
-#    speech = s
+    infile = open('sentence.txt')
+    s = infile.read()
+    
+    speech = s
     
     print("Response:")
     print(speech)
